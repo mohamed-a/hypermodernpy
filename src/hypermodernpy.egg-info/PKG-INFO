@@ -1,0 +1,12 @@
+Metadata-Version: 1.2
+Name: hypermodernpy
+Version: 0.1.0
+Summary: The hypermodern Python project
+Home-page: https://github.com/mohamed-a/hypermodernpy
+Author: Mohamed Abdellah
+Author-email: mohamed.ia@gmail.com
+License: UNKNOWN
+Description: # TO DO
+        
+Platform: UNKNOWN
+Requires-Python: >=3.7,<4.0

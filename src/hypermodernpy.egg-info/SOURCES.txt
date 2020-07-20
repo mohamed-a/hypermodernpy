@@ -1,0 +1,10 @@
+README.md
+setup.py
+src/hypermodernpy/__init__.py
+src/hypermodernpy/console.py
+src/hypermodernpy.egg-info/PKG-INFO
+src/hypermodernpy.egg-info/SOURCES.txt
+src/hypermodernpy.egg-info/dependency_links.txt
+src/hypermodernpy.egg-info/entry_points.txt
+src/hypermodernpy.egg-info/requires.txt
+src/hypermodernpy.egg-info/top_level.txt
